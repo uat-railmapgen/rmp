@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.4.3",
+  "version": "5.4.21.#1261-Include-icon-and-avoid-text-on-(x,-y)-for-JR-East-stations.052fb03",
   "environment": "UAT",
   "instance": "GitHub"
 }
