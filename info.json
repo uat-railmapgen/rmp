@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.4.21.#1261-Include-icon-and-avoid-text-on-(x,-y)-for-JR-East-stations.dbf8ec5",
+  "version": "5.4.31.#1225-Remove-unlockSimplePath-and-set-simple-to-PRO.315bd87",
   "environment": "UAT",
   "instance": "GitHub"
 }
