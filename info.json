@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.4.32.#1287-Preserve-station-attributes-on-predict-next-node.b205445",
+  "version": "5.4.32.#1287-Preserve-station-attributes-on-predict-next-node.a4f7b88",
   "environment": "UAT",
   "instance": "GitHub"
 }
