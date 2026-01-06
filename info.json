@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.4.31.#1225-Remove-unlockSimplePath-and-set-simple-to-PRO.315bd87",
+  "version": "5.4.32.#1287-Preserve-station-attributes-on-predict-next-node.b205445",
   "environment": "UAT",
   "instance": "GitHub"
 }
