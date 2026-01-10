@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.4.32.#1287-Preserve-station-attributes-on-predict-next-node.a4f7b88",
+  "version": "5.4.31.copilot.fix-d85a9c45-7be3-4bd3-9c6f-433d6f7127ee.f705fde",
   "environment": "UAT",
   "instance": "GitHub"
 }
