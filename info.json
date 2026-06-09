@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.5.44.#1219-fix-export-watermark.b4a9753",
+  "version": "5.5.43.#1475-support-pinyin-romanization.05ca1f7",
   "environment": "UAT",
   "instance": "GitHub"
 }
