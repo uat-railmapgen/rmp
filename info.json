@@ -1,6 +1,6 @@
 {
   "component": "rmp",
-  "version": "5.5.43.#1475-support-pinyin-romanization.05ca1f7",
+  "version": "5.5.45.#593-better-reconcile-lines-with-UI.b2ae1ae",
   "environment": "UAT",
   "instance": "GitHub"
 }
